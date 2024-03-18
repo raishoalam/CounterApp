@@ -1,0 +1,24 @@
+.message {
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.count {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+.count1 {
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+}
+.btn {
+  display: flex;
+  cursor: pointer;
+  margin: 10px;
+  justify-content: center;
+}
+.btn1 {
+  margin-left: 10px;
+  cursor: pointer;
+}
